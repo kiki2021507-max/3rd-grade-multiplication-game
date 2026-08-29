@@ -1,0 +1,6 @@
+{
+  "name": "동물 친구들과 함께하는 곱셈 미션",
+  "description": "초등학교 3학년을 위한 귀여운 동물 친구들과 함께하는 4단계 곱셈 연산 학습 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
